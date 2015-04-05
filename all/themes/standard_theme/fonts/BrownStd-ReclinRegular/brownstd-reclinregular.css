@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'BrownStdRecliningRegular';
+    src: url('brownstd-reclinregular.eot');
+    src: url('brownstd-reclinregular.eot') format('embedded-opentype'),
+         url('brownstd-reclinregular.woff2') format('woff2'),
+         url('brownstd-reclinregular.woff') format('woff'),
+         url('brownstd-reclinregular.ttf') format('truetype'),
+         url('brownstd-reclinregular.svg#BrownStdRecliningRegular') format('svg');
+}

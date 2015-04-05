@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'BrownStdRegular';
+    src: url('brownstd-regular.eot');
+    src: url('brownstd-regular.eot') format('embedded-opentype'),
+         url('brownstd-regular.woff2') format('woff2'),
+         url('brownstd-regular.woff') format('woff'),
+         url('brownstd-regular.ttf') format('truetype'),
+         url('brownstd-regular.svg#BrownStdRegular') format('svg');
+}
